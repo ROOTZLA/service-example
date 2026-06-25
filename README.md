@@ -28,3 +28,6 @@ These become available to your app as
 3. **Prepare** the host. The repo clones into `~/services/example` and
    `prepare.sh` runs.
 4. To remove: delete the service and prepare again — `uninstall.sh` runs.
+
+## Test
+Delete it and save again
